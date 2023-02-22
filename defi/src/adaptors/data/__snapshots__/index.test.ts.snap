@@ -69,11 +69,9 @@ exports[`Protocol adaptor list is complete AGGREGATORS 1`] = `
       "enabled": true,
       "id": "337",
       "protocolsData": {
-        "derivatives": {
-          "enabled": false,
-        },
         "swap": {
           "enabled": true,
+          "id": "337",
         },
       },
     },
@@ -975,6 +973,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -4111,6 +4110,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -17786,6 +17786,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -19556,9 +19557,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
       "protocolsData": {
         "derivatives": {
           "enabled": true,
-        },
-        "swap": {
-          "enabled": false,
+          "id": "337",
         },
       },
     },
@@ -21140,6 +21139,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -34011,11 +34011,9 @@ exports[`Protocol adaptor list is complete DEXS 1`] = `
       "enabled": true,
       "id": "337",
       "protocolsData": {
-        "derivatives": {
-          "enabled": false,
-        },
         "swap": {
           "enabled": true,
+          "id": "337",
         },
       },
     },
@@ -35085,6 +35083,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -38221,6 +38220,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -65236,6 +65236,7 @@ allowing zero price impact trading, up to 100x leverage, no counterparty risks f
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -67190,6 +67191,7 @@ allowing zero price impact trading, up to 100x leverage, no counterparty risks f
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -67930,11 +67932,9 @@ exports[`Protocol adaptor list is complete INCENTIVES 1`] = `
       "enabled": true,
       "id": "337",
       "protocolsData": {
-        "derivatives": {
-          "enabled": false,
-        },
         "swap": {
           "enabled": true,
+          "id": "337",
         },
       },
     },
@@ -68968,6 +68968,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -72140,6 +72141,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -84901,11 +84903,9 @@ exports[`Protocol adaptor list is complete OPTIONS 1`] = `
       "enabled": true,
       "id": "337",
       "protocolsData": {
-        "derivatives": {
-          "enabled": false,
-        },
         "swap": {
           "enabled": true,
+          "id": "337",
         },
       },
     },
@@ -85708,6 +85708,7 @@ exports[`Protocol adaptor list is complete OPTIONS 1`] = `
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -88950,6 +88951,7 @@ exports[`Protocol adaptor list is complete OPTIONS 1`] = `
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
@@ -101873,11 +101875,9 @@ exports[`Protocol adaptor list is complete PROTOCOLS 1`] = `
       "enabled": true,
       "id": "337",
       "protocolsData": {
-        "derivatives": {
-          "enabled": false,
-        },
         "swap": {
           "enabled": true,
+          "id": "337",
         },
       },
     },
@@ -102947,6 +102947,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": null,
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "42161",
       "startFrom": 1660608000,
@@ -106083,6 +106084,7 @@ Hegic Development fund also stakes ~170M Hegic tokens (16% of supply), so that c
     ],
     "cmcId": "11840",
     "config": {
+      "category": "Rollup",
       "enabled": true,
       "id": "11840",
     },
